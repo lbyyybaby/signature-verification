@@ -9,6 +9,7 @@ This project implements a robust Signature Verification system using a Siamese N
 - **Scalable solution** for real-world signature forgery detection.
 
 ## Data:
+Combine these two dataset for using:
 - **Crawl Data**: [Download from Google Drive](https://drive.google.com/file/d/1xwjj_kims4cGjwZY7jySnJX3UYBpWFb-/view?usp=sharing)  
 - **Public Data**: [Download from Kaggle](https://www.kaggle.com/datasets/mallapraveen/signature-matching)
 
