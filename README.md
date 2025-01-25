@@ -27,8 +27,8 @@ This project implements a robust Signature Verification system using a Siamese N
     ```
 ## Requirements:
 - Python 3.x
-- TensorFlow or PyTorch
 - Necessary dependencies
+- GPU
 
 ## License:
 This project is licensed under the MIT License.
